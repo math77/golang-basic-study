@@ -29,3 +29,5 @@ Ou, declarando e já atribuindo um valor:
 ```go
   nome := "Matheus"
 ```
+
+**Obs.: Variáveis declaradas e não utilizadas geram erro de compilação.**
